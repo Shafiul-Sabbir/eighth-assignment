@@ -1,0 +1,22 @@
+.cart-btn{
+    background-color:crimson;
+    color: black;
+    border-radius: 10px;
+    padding: 6px;
+    border: none;
+}
+.cart-btn:hover{
+    background-color: darkgray;
+    color: black;
+}
+.card-container{
+    background-color: black;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.card-container h5{
+    text-shadow: 2px 2px 5px red;
+}
+.card-container:hover{
+    box-shadow: 5px 10px 10px maroon;
+}
